@@ -30,6 +30,7 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* Kar et al, Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing. (CVPR) [[paper](http://xxx.itp.ac.cn/abs/2008.01701)][[code](https://github.com/aupendu/iterative-dehaze)]
 * Shen et al, Implicit Euler ODE Networks for Single-Image Dehazing. [[paper](https://arxiv.org/abs/2007.06443)][code]
 * Liu et al, Efficient Unpaired Image Dehazing with Cyclic Perceptual-Depth Supervision. [[paper](https://arxiv.org/abs/2007.05220)][code]
 * Li et al, You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network. [[paper](https://arxiv.org/abs/2006.16829)][code]
