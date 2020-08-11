@@ -18,6 +18,7 @@
 ## 3 Dehazing Research
 ### 3.1 Datasets
 ------------
+* 3R [[paper](https://arxiv.org/abs/2008.03864)][[dataset](https://github.com/chaimi2013/3R)]
 * KITTI [paper][[dataset](http://www.cvlibs.net/datasets/kitti/eval_depth_all.php)]
 * RESIDE [[paper](https://arxiv.org/pdf/1712.04143.pdf)][[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
 * SceneNet [paper][[dataset](https://robotvault.bitbucket.io/scenenet-rgbd.html)]
@@ -30,6 +31,7 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* Zhang et al, Nighttime Dehazing with a Synthetic Benchmark. [[paper](https://arxiv.org/abs/2008.03864)][[code](https://github.com/chaimi2013/3R)]
 * Kar et al, Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing. (CVPR) [[paper](http://xxx.itp.ac.cn/abs/2008.01701)][[code](https://github.com/aupendu/iterative-dehaze)]
 * Shen et al, Implicit Euler ODE Networks for Single-Image Dehazing. [[paper](https://arxiv.org/abs/2007.06443)][code]
 * Liu et al, Efficient Unpaired Image Dehazing with Cyclic Perceptual-Depth Supervision. [[paper](https://arxiv.org/abs/2007.05220)][code]
