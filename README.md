@@ -21,6 +21,7 @@
 * 3R [[paper](https://arxiv.org/abs/2008.03864)][[dataset](https://github.com/chaimi2013/3R)]
 * KITTI [paper][[dataset](http://www.cvlibs.net/datasets/kitti/eval_depth_all.php)]
 * RESIDE [[paper](https://arxiv.org/pdf/1712.04143.pdf)][[dataset](https://sites.google.com/view/reside-dehaze-datasets)]
+* HazeRD [[paper](http://www.ece.rochester.edu/~gsharma/papers/Zhang_ICIP2017_HazeRD.pdf)][[dataset](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)]
 * SceneNet [paper][[dataset](https://robotvault.bitbucket.io/scenenet-rgbd.html)]
 * I-HAZE [[paper](https://data.vision.ee.ethz.ch/cvl/ntire18//o-haze/O-HAZE.pdf)][[dataset](http://www.vision.ee.ethz.ch/ntire18/i-haze/)]
 * O-HAZE [[paper](https://data.vision.ee.ethz.ch/cvl/ntire18//o-haze/O-HAZE.pdf)][[dataset](http://www.vision.ee.ethz.ch/ntire18/o-haze/)]
