@@ -1,5 +1,5 @@
 # DehazeZoo (Single Image vs. Video Based)
-[Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
+By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 
 ## 1 Description
    * DehazeZoo: A survey on haze removal from video and single image. Papers, codes and datasets are maintained.
@@ -33,6 +33,7 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* Dhara et al, Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing. [[paper](https://ieeexplore.ieee.org/document/9134933)][[code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/)]
 * Zhang et al, Nighttime Dehazing with a Synthetic Benchmark. [[paper](https://arxiv.org/abs/2008.03864)][[code](https://github.com/chaimi2013/3R)]
 * Kar et al, Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing. (CVPR) [[paper](http://xxx.itp.ac.cn/abs/2008.01701)][[code](https://github.com/aupendu/iterative-dehaze)]
 * Shen et al, Implicit Euler ODE Networks for Single-Image Dehazing. [[paper](https://arxiv.org/abs/2007.06443)][code]
