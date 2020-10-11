@@ -33,6 +33,8 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 ### 3.2 Papers
 --------------
 ### 2020
+* Dong et al, Physics-based Feature Dehazing Networks. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)][code]
+* Deng et al, HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)][[code](https://github.com/huangzilingcv/HardGAN)]
 * Anvari et al, Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training. [[paper](http://xxx.itp.ac.cn/abs/2008.06632)][code]
 * Dhara et al, Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing. [[paper](https://ieeexplore.ieee.org/document/9134933)][[code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/)]
 * Zhang et al, Nighttime Dehazing with a Synthetic Benchmark. [[paper](https://arxiv.org/abs/2008.03864)][[code](https://github.com/chaimi2013/3R)]
