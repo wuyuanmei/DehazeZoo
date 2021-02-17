@@ -32,6 +32,11 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 
 ### 3.2 Papers
 --------------
+### 2021
+* Shyam et al, Towards Domain Invariant Single Image Dehazing. (AAAI) [[paper](https://arxiv.org/abs/2101.10449)][[code](https://github.com/PS06/DIDH)]
+* Liu et al, Indirect Domain Shift for Single Image Dehazing. [[paper](https://arxiv.org/abs/2102.03268v1)][code]
+* Yi et al, Two-Step Image Dehazing with Intra-domain and Inter-domain Adaption. [[paper](https://arxiv.org/pdf/2102.03501.pdf)][code]
+
 ### 2020
 * Dong et al, Physics-based Feature Dehazing Networks. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)][code]
 * Deng et al, HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)][[code](https://github.com/huangzilingcv/HardGAN)]
@@ -83,4 +88,4 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * The above content is constantly updated, welcome continuous attention!
 
 ## 5 Contact
-* If you have any question, please feel free to contact Xiang Chen (Email: xchen@kupixel.com).
+* If you have any question, please feel free to contact Xiang Chen (Email: cv.xchen@gmail.com).
