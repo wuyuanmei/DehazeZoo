@@ -33,6 +33,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 ### 3.2 Papers
 --------------
 ### 2021
+* Wu et al, Contrastive Learning for Compact Single Image Dehazing. (CVPR) [[paper](https://arxiv.org/pdf/2104.09367.pdf)][[code](https://github.com/GlassyWu/AECR-Net)]
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (AAAI) [[paper](https://arxiv.org/abs/2101.10449)][[code](https://github.com/PS06/DIDH)]
 * Liu et al, Indirect Domain Shift for Single Image Dehazing. [[paper](https://arxiv.org/abs/2102.03268v1)][code]
 * Yi et al, Two-Step Image Dehazing with Intra-domain and Inter-domain Adaption. [[paper](https://arxiv.org/pdf/2102.03501.pdf)][code]
@@ -41,7 +42,6 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * Dong et al, Physics-based Feature Dehazing Networks. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750188.pdf)][code]
 * Deng et al, HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing. (ECCV) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)][[code](https://github.com/huangzilingcv/HardGAN)]
 * Anvari et al, Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training. [[paper](http://xxx.itp.ac.cn/abs/2008.06632)][code]
-* Dhara et al, Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing. [[paper](https://ieeexplore.ieee.org/document/9134933)][[code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/)]
 * Zhang et al, Nighttime Dehazing with a Synthetic Benchmark. [[paper](https://arxiv.org/abs/2008.03864)][[code](https://github.com/chaimi2013/3R)]
 * Kar et al, Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing. (CVPR) [[paper](http://xxx.itp.ac.cn/abs/2008.01701)][[code](https://github.com/aupendu/iterative-dehaze)]
 * Shen et al, Implicit Euler ODE Networks for Single-Image Dehazing. [[paper](https://arxiv.org/abs/2007.06443)][code]
