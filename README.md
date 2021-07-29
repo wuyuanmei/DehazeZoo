@@ -33,7 +33,8 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 ### 3.2 Papers
 --------------
 ### 2021
-* Zheng et al, Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][code]
+* Chen et al, PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf)][[code](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)]
+* Zheng et al, Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][[code](https://github.com/zzr-idam/4KDehazing)]
 * Wu et al, Contrastive Learning for Compact Single Image Dehazing. (CVPR) [[paper](https://arxiv.org/pdf/2104.09367.pdf)][[code](https://github.com/GlassyWu/AECR-Net)]
 * Shyam et al, Towards Domain Invariant Single Image Dehazing. (AAAI) [[paper](https://arxiv.org/abs/2101.10449)][[code](https://github.com/PS06/DIDH)]
 * Liu et al, Indirect Domain Shift for Single Image Dehazing. [[paper](https://arxiv.org/abs/2102.03268v1)][code]
