@@ -1,5 +1,5 @@
 # DehazeZoo (Single Image vs. Video Based)
-By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
+By [Xiang Chen](https://cxtalk.github.io/), [Jinshan Pan](https://jspan.github.io/), Yufeng Li, Yufeng Huang
 
 ## 1 Description
    * DehazeZoo: A survey on haze removal from video and single image. Papers, codes and datasets are maintained.
@@ -29,6 +29,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * Middlebury [[paper](http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf)][[dataset](http://vision.middlebury.edu/stereo/data/scenes2014/)]
 * 3DRealisticScene [[paper](https://arxiv.org/abs/2004.08554)][[dataset](https://github.com/liruoteng/3DRealisticSceneDehaze)]
 * NYU Depth Dataset V2 [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)][[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
+* 4K-Dehazing Data [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][[dataset](https://pan.baidu.com/s/1kx1oas4HMDIDUzmYN6Cwuw)]
 
 ### 3.2 Papers
 --------------
