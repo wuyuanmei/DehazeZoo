@@ -34,6 +34,7 @@ By [Xiang Chen](https://cxtalk.github.io/), [Jinshan Pan](https://jspan.github.i
 ### 3.2 Papers
 --------------
 ### 2021
+* Liu et al, From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data. (ACMMM) [[paper](https://arxiv.org/pdf/2108.02934.pdf)][[code](https://github.com/liuye123321/DMT-Net)]
 * Chen et al, PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf)][[code](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)]
 * Zheng et al, Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][[code](https://github.com/zzr-idam/4KDehazing)]
 * Wu et al, Contrastive Learning for Compact Single Image Dehazing. (CVPR) [[paper](https://arxiv.org/pdf/2104.09367.pdf)][[code](https://github.com/GlassyWu/AECR-Net)]
